@@ -10,7 +10,7 @@ The idea behind this project is to cover some of the most important functionalit
 Begin by cloning the repository and installing all the required packages. Once completed, initiate the local server. Initially, the application will function using local mock data. You can seamlessly connect it to any API by modifying the interceptor's base URL.
 
 ```
-> git clone https://github.com/gidmasterlab/restaurant-app-vue
+> git clone https://github.com/asadkai/DineDash_Vue_Typescript.git
 > npm install
 > npm start
 ```
